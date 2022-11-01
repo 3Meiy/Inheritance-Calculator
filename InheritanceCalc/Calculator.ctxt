@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Calculator
+comment1.params=num1\ num2
+comment1.target=Calculator(double,\ double)
+comment2.params=
+comment2.target=void\ setNum1()
+comment3.params=
+comment3.target=void\ setNum2()
+comment4.params=
+comment4.target=double\ getNum1()
+comment5.params=
+comment5.target=double\ getNum2()
+numComments=6

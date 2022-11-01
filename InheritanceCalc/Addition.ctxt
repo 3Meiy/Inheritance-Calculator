@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Addition
+comment1.params=sum
+comment1.target=void\ setSum(double)
+comment2.params=
+comment2.target=double\ getSum()
+comment3.params=num1\ num2
+comment3.target=Addition(double,\ double)
+numComments=4
